@@ -4,6 +4,7 @@
 [![Release Version](https://img.shields.io/badge/release-3.1.0-brightgreen.svg)](https://github.com/Tencent/bk-cmdb/releases)
 [![Build Status](https://travis-ci.org/Tencent/bk-cmdb.svg?branch=master)](https://travis-ci.org/Tencent/bk-cmdb)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tencent/bk-cmdb/pulls)
+[![BK Pipelines Status](https://api.bkdevops.qq.com/process/api/external/pipelines/projects/cc/p-2fc5a05b25024d5586742b8e88d3c853/badge?X-DEVOPS-PROJECT-ID=cc)](http://api.devops.oa.com/process/api-html/user/builds/projects/cc/pipelines/p-2fc5a05b25024d5586742b8e88d3c853/latestFinished?X-DEVOPS-PROJECT-ID=cc)
 
 [(English Documents Available)](readme_en.md)
 
